@@ -11,8 +11,8 @@ The rank distance correlation of Shi H., Drton M. and Han F. (2022) is computed.
 \tabular{lll}{
 Package: \tab rdcor\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2025-12-01\cr
+Version: \tab 1.1\cr
+Date: \tab 2026-03-25\cr
 License: \tab GPL-2\cr
 }
 }
